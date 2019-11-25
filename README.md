@@ -8,4 +8,4 @@ Architecture Overview:
 1. Pop-up node
 2. Split-screen node
 3. AWS node
-4. Algorithim node
+4. Algorithim node: https://medium.com/@adriensieg/text-similarities-da019229c894
