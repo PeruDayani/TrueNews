@@ -1,0 +1,77 @@
+@media screen { * , *:after,*:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box;  box-sizing: border-box;	} }* {margin: auto; padding: auto;}
+html { font-size: 62.5%; } /*base sizee*/
+body { font-size: 1.4rem; } /* =14px all type sizes are relative to the base size*/
+
+body{
+	background: #FFFFFF;
+	width: 328px;
+	height:203px;
+	border: 2px solid #BCD8DB;
+	box-sizing: border-box;
+}
+
+#quote{
+	width: 235px;
+	height: 56px;
+	left: 1137px;
+	top: 127px;
+
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+
+	color: #17122D;
+}
+
+#popupButton{
+	width: 46px;
+	height: 27px;
+	left: 1233px;
+	top: 209px;
+	
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+
+	color: #177E89;
+}
+
+/*
+button#checkPage{
+	width: 46px;
+	height: 25.09px;
+	left: 1233px;
+	top: 209px;
+	color: #177E89;
+	
+	display: block;
+	border: none;
+	background: #16f6bc;
+	border-radius: 0;
+	padding: 15px 30px;
+	width: 90%;
+	margin: 10px auto;
+}
+
+/*
+position: absolute;
+width: 235px;
+height: 56px;
+left: 1137px;
+top: 127px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+
+color: #17122D;
+*/
